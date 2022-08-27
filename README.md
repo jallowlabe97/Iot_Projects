@@ -1,2 +1,2 @@
-# Iot_Projects
+# Iot_Project
 Internet of Things
